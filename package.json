@@ -1,5 +1,5 @@
 {
-  "name": "content",
+  "name": "content-concat",
   "version": "0.0.1",
   "description": "retrieves content by their content hash",
   "main": "index.js",
