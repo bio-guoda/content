@@ -4,7 +4,7 @@ javascript library to retrieve content by their content hash
 # example
 
 
-```javascript```
+```javascript
 var content = require('content');
 var test = require('tape');
 var md5 = require('md5');
