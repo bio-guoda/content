@@ -20,9 +20,9 @@
   "author": "Jorrit Poelen <jhpoelen@jhpoelen.nl>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/bio-guoda/content/issues"
+    "url": "https://github.com/bio-guoda/content-concat/issues"
   },
-  "homepage": "https://github.com/bio-guoda/content#readme",
+  "homepage": "https://github.com/bio-guoda/content-concat#readme",
   "devDependencies": {
     "tape": "^5.6.0"
   },
