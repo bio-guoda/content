@@ -1,6 +1,6 @@
 {
   "name": "content-concat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "retrieves content by their content hash",
   "main": "index.js",
   "scripts": {
